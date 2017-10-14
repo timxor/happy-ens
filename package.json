@@ -1,0 +1,27 @@
+{
+  "name": "happy_ens",
+  "version": "1.0.0",
+  "description": "Resolve *.eth domains in your browser with our dns server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcsiwula/happy_ens.git"
+  },
+  "keywords": [
+    "ens",
+    "dns",
+    "web3",
+    "ethereum",
+    "waterloo",
+    "hackathon"
+  ],
+  "author": "Tim Siwula, Eric Tu, Collin Chin, Harry Chan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tcsiwula/happy_ens/issues"
+  },
+  "homepage": "https://github.com/tcsiwula/happy_ens#readme"
+}
