@@ -11,4 +11,4 @@
 - Go to [happyethereum.com/register](www.happyethereum.com/register) and
 associate a mapping of your eth domain to an ipfs resource resolves to your website*
 
-![mac gif tutorial](h-ens.gif)s
+![mac gif tutorial](h-ens.gif)
