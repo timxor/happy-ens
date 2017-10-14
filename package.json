@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/tcsiwula/happy_ens/issues"
   },
-  "homepage": "https://github.com/tcsiwula/happy_ens#readme"
+  "homepage": "https://github.com/tcsiwula/happy_ens#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "native-dns": "^0.7.0"
+  }
 }
